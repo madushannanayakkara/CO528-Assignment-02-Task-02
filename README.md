@@ -19,7 +19,7 @@ This is a React-based angle selector that allows users to select an angle betwee
 
 Check out the live demo of the React angle selector at the following URL:
 
-[React Angle Selector Demo](https://your-hosted-url.com)
+[React Angle Selector Demo](https://madushannanayakkara.github.io/CO528-Assignment-02-Task-02/)
 
 ## Project Structure
 

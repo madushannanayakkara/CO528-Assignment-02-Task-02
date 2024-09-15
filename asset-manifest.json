@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CO528-Assignment-02-Task-02/static/css/main.1a3f7fbb.css",
+    "main.js": "/CO528-Assignment-02-Task-02/static/js/main.3405fa45.js",
+    "static/js/453.f69b133b.chunk.js": "/CO528-Assignment-02-Task-02/static/js/453.f69b133b.chunk.js",
+    "index.html": "/CO528-Assignment-02-Task-02/index.html",
+    "main.1a3f7fbb.css.map": "/CO528-Assignment-02-Task-02/static/css/main.1a3f7fbb.css.map",
+    "main.3405fa45.js.map": "/CO528-Assignment-02-Task-02/static/js/main.3405fa45.js.map",
+    "453.f69b133b.chunk.js.map": "/CO528-Assignment-02-Task-02/static/js/453.f69b133b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a3f7fbb.css",
+    "static/js/main.3405fa45.js"
+  ]
+}
